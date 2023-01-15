@@ -25,7 +25,7 @@ arise as a result of discrepancies and confusions in the current process.
 
 ### ⚙ WORKING
 <p align="center">  
-<img width="466" alt="image" src="https://user-images.githubusercontent.com/99785671/212410582-9636540c-5d47-4f35-a39a-1d1fc042854d.png">
+<img width="466" alt="image" src="https://user-images.githubusercontent.com/91112838/212551127-79cb02ed-fc9e-46b0-9c20-1c2343ce6971.png">
 </p>
 The flowchart above depicts how our solution will work. First the person will be asked to register if not registered yet.The registration process asks for basic details such as name, aadhaar number, phone number, email id etc.If the farmer is already registered on the portal, then he/she can enter the credentials to login and then to continue towards distributing his/her assets and this is how the data will be sent, directly to the database without any modifications. On the other hand, once the government receives the data in its database the quality of the produce can be verified manually and, if approved, the necessary actions can be taken and a certificate in the form of an NFT will be generated at the receiver’s end.
 In this way, there will be direct exchange of data between the person and his/her successor. Hence there would be transparency, the costs forced by the middlemen (advocates) would be completely eliminated, and the method is secure and trustworthy since there is no involvement of any third-party services.
