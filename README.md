@@ -22,6 +22,7 @@ arise as a result of discrepancies and confusions in the current process.
 - Javascript
 - Web3.JS
 - Ganache 
+- MongoDB
 
 ### ⚙ WORKING
 <p align="center">  
